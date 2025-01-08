@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 8cb312a74402c2445a48be430651944c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9cae939afa8a243a1b08cfeea8d36e
+      internalID: -1311364349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 375
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb5feff05c36e745b6535f6129e07d3
+      internalID: 46918315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 375
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433a37a1403b5f479be4cb00c7b6d0e
+      internalID: 1541229380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bafa1e7b7a56ee449ac4b66f08a5916
+      internalID: 1010619237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144c9d4298b5c12409b1b7ce9ec6bc33
+      internalID: 1823743101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 250
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a1c888d3de9047baac3be8c91e6b1
+      internalID: -897533470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd671312e68450b4ca0a32ea666245ef
+      internalID: 1933167163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 250
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92caffda333bbd3449b13a29c9137d75
+      internalID: -1137066962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77d60434d9d9e47be81df345eecb17
+      internalID: 1133611804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 125
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e67fb4ad19f04fae5b0417d698cb0
+      internalID: 14888126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 125
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7fade448783f248ab79486bdba86ad
+      internalID: 1497722133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 125
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f63ab8b5ff225428756c55c20075db
+      internalID: 60362227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a9735a1ccc990498636d9384d5337c
+      internalID: 1104034445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da97a5c2f96876841bf87a82fccaaf7a
+      internalID: 117038572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2472223249ace454597a683705c80516
+      internalID: -63235753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2)
+        (3)_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f9f81eb07c10243ba70fb1e73574ca
+      internalID: -699778664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_0: -1311364349
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_1: 46918315
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_10: 1497722133
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_11: 60362227
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_12: 1104034445
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_13: 117038572
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_14: -63235753
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_15: -699778664
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_2: 1541229380
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_3: 1010619237
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_4: 1823743101
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_5: -897533470
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_6: 1933167163
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_7: -1137066962
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_8: 1133611804
+      Zir27An_Sunforge_Mk2_Attacking-ezgif.com-gif-to-sprite-converter (2) (3)_9: 14888126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

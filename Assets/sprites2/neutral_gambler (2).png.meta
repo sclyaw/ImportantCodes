@@ -1,0 +1,2657 @@
+fileFormatVersion: 2
+guid: fbb5f67b927a8fc42a9e87dcfe9b0937
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: neutral_gambler (2)_0
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 985
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3d5100d2b0f9544baee68dae71737b
+      internalID: -120760166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_1
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 996
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790a8ed72b453cd4f9e211cef5200d13
+      internalID: 1289603405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 940
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8be570f1525b34e9212bba7ddcdb45
+      internalID: 563355642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 949
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd61b9c117ca8e43b8307859943fce1
+      internalID: -1527873714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 940
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfe51497612b5b4a891865ba6e21ff0
+      internalID: -548259599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 940
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d3653b8847c548b2b0cf8a423344b
+      internalID: -1396422700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 972
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c38abab5614b046bbd2fdb1e19568f
+      internalID: -1785405083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 940
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6723c8678817ce849bd0e5e16e34e98e
+      internalID: -1425713155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 940
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e6f93ac3ad87439bc2585ae83bfc5
+      internalID: 1902816906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 938
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb03b89bb6f8684b910c13eb5b88a0a
+      internalID: -58728463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 940
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb72a21f482854ab21d356b0b86f51
+      internalID: 2099940676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 892
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ab006cfde11149adbf01862ed4208
+      internalID: 819295688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 841
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae048c9e162d6243b5311fafe32c8e6
+      internalID: 284772667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 839
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aadba4ccb925f40b56a22cc7e0c129
+      internalID: -1872767329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 876
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d79ce1b27b9f745bb9099e253b5487
+      internalID: 390751734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 839
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d83bfc05df36ce4481a90559c160222
+      internalID: 1742334530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 871
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f29660e496ec942b7192f2cb64ed96
+      internalID: 1613268099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 839
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36faa1c846a32c149a51f33829990c10
+      internalID: 997414212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 869
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67996875995c434e99c7994d65beac6
+      internalID: -649455608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 839
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c46284ae55e540ba101aff6061533
+      internalID: 1780373939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 839
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410ee0ec8dfc4bb4e9a52688ee77c0c9
+      internalID: 855789796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_21
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 839
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc08e6a45c84448bd24ba617a7ee20
+      internalID: 792113141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 837
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0505783444c4a4749be0ed3bc847ab2b
+      internalID: 887754965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 740
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acacb61b6953fb5438d899898712ec2e
+      internalID: -571661213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 769
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b2f7950d1cb446b7c22fe95c9d709
+      internalID: 1449058957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 738
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18df89bf2ea1cb40b370e1cb64a70b3
+      internalID: -1764631414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 738
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf1d4f74340e04191db95deccaf5d4
+      internalID: 2096520212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_27
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 738
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f23b453a2f022a45a122cbbf6068087
+      internalID: 418091655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 771
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6ea82e50366b4c836a00bc7d88538
+      internalID: 2105795287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_29
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 738
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a41276abcb99424aa56d47f163c0841
+      internalID: 776312622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 772
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438f049d613622a4097442f771ef4e00
+      internalID: -1115390779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_31
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 740
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0a83275f561b94da7e1141f9a312d8
+      internalID: 1915511985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 738
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a755d8eb838c342a0fa72cb9486e08
+      internalID: 1369741709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 740
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab768ed9181ab4945bc4b221e95a6847
+      internalID: -448929692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_34
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 738
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e52b2e4ff9914da6c14aae041df2a
+      internalID: -1360953200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 639
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3ddb441ba33504dac571c03c8bbdad
+      internalID: -490349352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 637
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc799197440d164eb8f46943167bebb
+      internalID: 1328125326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 637
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7102694b3b8b478296d31451c8855
+      internalID: -379055028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 637
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c409d9b9e51914eac254c0c4acae51
+      internalID: 186646129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_39
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 670
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546d389bc3c5564fb734c4c9d3d50d2
+      internalID: 1555860039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_40
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 637
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cadc2f61a2c940b781b435e405324
+      internalID: -1921764601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_41
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 671
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4650735b783ee3646968ea541d2b10af
+      internalID: -1345694532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_42
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 629
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25997133d71399408945d21c4e7ec2c
+      internalID: 419367179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_43
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 637
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117807982c170d3488e9f07e56d9198c
+      internalID: -1260924742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 637
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0fcc04f54e31419c84c269f6dcd11
+      internalID: -1739724914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_45
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 639
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a79ad8ef5c8c184786c2aee6e5dfa59
+      internalID: -757874150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 571
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb345ef4cb121a48add68950836ffa6
+      internalID: -602309863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 536
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb969aebe140b4742b087d1872aa0bec
+      internalID: -45929612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 536
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4e364bd4de7334ebd72f8fd0a9c63b
+      internalID: 1718706855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_49
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 536
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2518ba50efd969428552f60c95a73f1
+      internalID: 2063394320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_50
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 528
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860bdc740e50c6140b114b191974e4ca
+      internalID: -1760306103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_51
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 578
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9144a2f1cc7836d419e466644f5543f8
+      internalID: -917301536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 538
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbfaf52134ca4748b05c46198995b6c
+      internalID: -149888867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 568
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990573168bf1ac4fbc0dc7e0fd816ce
+      internalID: 971525839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 536
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef3782edef67c49af91ca87d6f432e
+      internalID: -1149294143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_55
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 536
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2fc68ede65b194c96bf0376a60c27d
+      internalID: 1886098106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 536
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5187dda2e1af44819fd5a4e3d3d27
+      internalID: 1844488902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 441
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe672944f9947754d8e1cae8399a0912
+      internalID: 235298206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 466
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37064d3a9d319f84c8a496f730168d82
+      internalID: 617776753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 435
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde6982f7d1004f499257193454c1c2c
+      internalID: -466736983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 471
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80f802614684a46b8906135847e26a
+      internalID: 261829475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_61
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 464
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd0e0b6723f304e8c3cda58601c592
+      internalID: 1115861126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 435
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609840b92ec7dc4cb4877a1522c22de
+      internalID: 2032632391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_63
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 435
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a28db947f40f48a50fb91814bdf57
+      internalID: -1425597064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_64
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 426
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eee36cbb79bcca47a10ade1287db7e8
+      internalID: -900567489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_65
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 435
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c300b64258ce28b4ca851177e3698fd3
+      internalID: -960441413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 432
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416626667816206478964a1d4c790f64
+      internalID: -88991260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 435
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4903bb5a67dd8b64d82e1d94f802c191
+      internalID: -1422562028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_68
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 326
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a64dd08b0b284b849d1fdb55fdff7
+      internalID: 1184040410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_69
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 386
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce8d86f50f5b94eb04133734cf5d5d
+      internalID: -2070387439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 334
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc9b097cd79964f9487ba383fa1b84
+      internalID: -1400499762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_71
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 364
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b80decba68a8544c8524e00b26950fb
+      internalID: 1421775440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_72
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 334
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd25cce93739c541908d6052bc46065
+      internalID: -1861392123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_73
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 370
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578820163846e141b57a0f55a52083c
+      internalID: 1308900798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_74
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 334
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7886d36ae945244b4edbfddbe7825f
+      internalID: -1304826590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_75
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 334
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa32c6857021ca4898759d1d4973482
+      internalID: 311383335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_76
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 369
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2f01609d583343805e376952e7bc7
+      internalID: -1813895025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_77
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 334
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2248c5f426bcac4b88d9197172983a0
+      internalID: -95251226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_78
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 334
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695a6a1f6e5884a439bfb6bac48b13e8
+      internalID: -52602685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_79
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 331
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7568cd31b9c5b4b9588c1fce9e9928
+      internalID: -2035290161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_80
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 334
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7435f61a9bb9f40a7ec81110d5544a
+      internalID: 2018859953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_81
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 326
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9805485b7601c14fba73ce4b8f9ad22
+      internalID: -1152050135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 271
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509562f994bd5a742aacb737f7b26b1a
+      internalID: -964864323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_83
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 233
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7fa970c473e7548bd9bf55c4b04fbd
+      internalID: -1546893583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_84
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 268
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b558fe710de2a243a5240d159590a59
+      internalID: -171405602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_85
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 233
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12a7a770e2fbf4e8ab64623712d0c7
+      internalID: -569763454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_86
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 276
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6752d579a2160b146bcb600eac7b7790
+      internalID: -1136732928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_87
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 275
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685b8fd1c459fc4ba2457f3b957730b
+      internalID: 1281184085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_88
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 268
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d143fc8bbed51fa4c92f4320e4aa5ea3
+      internalID: 336715440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 233
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485fe1967ae5fcf458de38425752abc1
+      internalID: -2017392321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_90
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 262
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd4689c05d06fa4a80e661449e3f278
+      internalID: 466408812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_91
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 233
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132dd9aebc0a8514b94cd2606ffc2898
+      internalID: 1189893783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_92
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 233
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e29b9323be1ca42a9f3a2827228c05
+      internalID: 1209878628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_93
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 228
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b25d3be4ba682d4794e11b1db80a303
+      internalID: -637087302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_94
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 233
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b901b3ff0627e7428d140df91e3741c
+      internalID: -1897126934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_95
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 230
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc691f00067df614c99eb3fd16e83f36
+      internalID: -784981964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_96
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 227
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2321c972d23854469cf04550de963fa
+      internalID: -1063268930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_97
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 141
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f94b58148ea49f4c83adc0ea346cb72
+      internalID: -1824906141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_98
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 170
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db647b2e0dbd69745bdaa1307f101860
+      internalID: -1480676361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_99
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 132
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58af9ede66bb74eb6e71013b899871
+      internalID: -1467843559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_100
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 132
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7717f88e10c8c419783588aa8b2f00
+      internalID: 1721225861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_101
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 132
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c526b0104ee644a71265119864f21
+      internalID: 546887069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_102
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 132
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259cb86874572d94d9fb778e7c1769b5
+      internalID: 601090883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_103
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 131
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ae08791de17b4f8cb0b3a1baffeb6
+      internalID: 799769775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_104
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 129
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058ba14219d387144b674e07ab31073d
+      internalID: 269753951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_105
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 130
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4058b6379cfbb344cb73d49b32d4b536
+      internalID: 323306242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_106
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 40
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb4c658afd75434ea1edd83b461d5b3
+      internalID: 1302839252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_107
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 31
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb80e26a060ca064085a3512ff6fc4f1
+      internalID: 1520464819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_108
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 68
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac7c596d07e00c46bbf2503c1597b50
+      internalID: 664012930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_109
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 31
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65105f8c121df64c9c88997eedd0eaa
+      internalID: 360443368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_110
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 65
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080392bb15e6a974eb949c83ef65fb91
+      internalID: 1576647481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_111
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 31
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7bafed833c5804bbc8621a3d3b11cc
+      internalID: 45835506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_112
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 31
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b787380ef04bbdd4cb65d9f2207c9710
+      internalID: 483714782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_113
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 31
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf70d99f6d412949b1a32bd1f6bf45e
+      internalID: -251340201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_gambler (2)_114
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 29
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef51629b7278924ea4c4c7b57c4da6b
+      internalID: 973783112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      neutral_gambler (2)_0: -120760166
+      neutral_gambler (2)_1: 1289603405
+      neutral_gambler (2)_10: 2099940676
+      neutral_gambler (2)_100: 1721225861
+      neutral_gambler (2)_101: 546887069
+      neutral_gambler (2)_102: 601090883
+      neutral_gambler (2)_103: 799769775
+      neutral_gambler (2)_104: 269753951
+      neutral_gambler (2)_105: 323306242
+      neutral_gambler (2)_106: 1302839252
+      neutral_gambler (2)_107: 1520464819
+      neutral_gambler (2)_108: 664012930
+      neutral_gambler (2)_109: 360443368
+      neutral_gambler (2)_11: 819295688
+      neutral_gambler (2)_110: 1576647481
+      neutral_gambler (2)_111: 45835506
+      neutral_gambler (2)_112: 483714782
+      neutral_gambler (2)_113: -251340201
+      neutral_gambler (2)_114: 973783112
+      neutral_gambler (2)_12: 284772667
+      neutral_gambler (2)_13: -1872767329
+      neutral_gambler (2)_14: 390751734
+      neutral_gambler (2)_15: 1742334530
+      neutral_gambler (2)_16: 1613268099
+      neutral_gambler (2)_17: 997414212
+      neutral_gambler (2)_18: -649455608
+      neutral_gambler (2)_19: 1780373939
+      neutral_gambler (2)_2: 563355642
+      neutral_gambler (2)_20: 855789796
+      neutral_gambler (2)_21: 792113141
+      neutral_gambler (2)_22: 887754965
+      neutral_gambler (2)_23: -571661213
+      neutral_gambler (2)_24: 1449058957
+      neutral_gambler (2)_25: -1764631414
+      neutral_gambler (2)_26: 2096520212
+      neutral_gambler (2)_27: 418091655
+      neutral_gambler (2)_28: 2105795287
+      neutral_gambler (2)_29: 776312622
+      neutral_gambler (2)_3: -1527873714
+      neutral_gambler (2)_30: -1115390779
+      neutral_gambler (2)_31: 1915511985
+      neutral_gambler (2)_32: 1369741709
+      neutral_gambler (2)_33: -448929692
+      neutral_gambler (2)_34: -1360953200
+      neutral_gambler (2)_35: -490349352
+      neutral_gambler (2)_36: 1328125326
+      neutral_gambler (2)_37: -379055028
+      neutral_gambler (2)_38: 186646129
+      neutral_gambler (2)_39: 1555860039
+      neutral_gambler (2)_4: -548259599
+      neutral_gambler (2)_40: -1921764601
+      neutral_gambler (2)_41: -1345694532
+      neutral_gambler (2)_42: 419367179
+      neutral_gambler (2)_43: -1260924742
+      neutral_gambler (2)_44: -1739724914
+      neutral_gambler (2)_45: -757874150
+      neutral_gambler (2)_46: -602309863
+      neutral_gambler (2)_47: -45929612
+      neutral_gambler (2)_48: 1718706855
+      neutral_gambler (2)_49: 2063394320
+      neutral_gambler (2)_5: -1396422700
+      neutral_gambler (2)_50: -1760306103
+      neutral_gambler (2)_51: -917301536
+      neutral_gambler (2)_52: -149888867
+      neutral_gambler (2)_53: 971525839
+      neutral_gambler (2)_54: -1149294143
+      neutral_gambler (2)_55: 1886098106
+      neutral_gambler (2)_56: 1844488902
+      neutral_gambler (2)_57: 235298206
+      neutral_gambler (2)_58: 617776753
+      neutral_gambler (2)_59: -466736983
+      neutral_gambler (2)_6: -1785405083
+      neutral_gambler (2)_60: 261829475
+      neutral_gambler (2)_61: 1115861126
+      neutral_gambler (2)_62: 2032632391
+      neutral_gambler (2)_63: -1425597064
+      neutral_gambler (2)_64: -900567489
+      neutral_gambler (2)_65: -960441413
+      neutral_gambler (2)_66: -88991260
+      neutral_gambler (2)_67: -1422562028
+      neutral_gambler (2)_68: 1184040410
+      neutral_gambler (2)_69: -2070387439
+      neutral_gambler (2)_7: -1425713155
+      neutral_gambler (2)_70: -1400499762
+      neutral_gambler (2)_71: 1421775440
+      neutral_gambler (2)_72: -1861392123
+      neutral_gambler (2)_73: 1308900798
+      neutral_gambler (2)_74: -1304826590
+      neutral_gambler (2)_75: 311383335
+      neutral_gambler (2)_76: -1813895025
+      neutral_gambler (2)_77: -95251226
+      neutral_gambler (2)_78: -52602685
+      neutral_gambler (2)_79: -2035290161
+      neutral_gambler (2)_8: 1902816906
+      neutral_gambler (2)_80: 2018859953
+      neutral_gambler (2)_81: -1152050135
+      neutral_gambler (2)_82: -964864323
+      neutral_gambler (2)_83: -1546893583
+      neutral_gambler (2)_84: -171405602
+      neutral_gambler (2)_85: -569763454
+      neutral_gambler (2)_86: -1136732928
+      neutral_gambler (2)_87: 1281184085
+      neutral_gambler (2)_88: 336715440
+      neutral_gambler (2)_89: -2017392321
+      neutral_gambler (2)_9: -58728463
+      neutral_gambler (2)_90: 466408812
+      neutral_gambler (2)_91: 1189893783
+      neutral_gambler (2)_92: 1209878628
+      neutral_gambler (2)_93: -637087302
+      neutral_gambler (2)_94: -1897126934
+      neutral_gambler (2)_95: -784981964
+      neutral_gambler (2)_96: -1063268930
+      neutral_gambler (2)_97: -1824906141
+      neutral_gambler (2)_98: -1480676361
+      neutral_gambler (2)_99: -1467843559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

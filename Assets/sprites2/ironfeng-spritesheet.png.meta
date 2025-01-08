@@ -1,0 +1,2459 @@
+fileFormatVersion: 2
+guid: 4c92ac1e4816f684488c038b9be3e003
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: f2_shidaimk2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1918
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0da47a5eab21644a1a05bbdea84ebd
+      internalID: 495010736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1918
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cfa8a9b0867164c9d99d614c9acd44
+      internalID: -1825009443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1918
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c547d87837e75184aa12b0c1d70d20ea
+      internalID: 1765519320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1918
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264d85dc4659b5e489b110b16e5e793c
+      internalID: -1699594016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1918
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b208690c6659242a078fb1dea8705b
+      internalID: 1564207878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1918
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03e463ff5832f7498a6214e5247ad79
+      internalID: -1061344171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_7
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1918
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cce0c39a96ae66408e71680902d3ff2
+      internalID: -1468152178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1787
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5bb51210a5cad4f9d392a849887562
+      internalID: -828829879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1787
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ded8cdba5a03c449c55fdc8fa2fb63
+      internalID: 1483789853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1787
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92f709740c7b66498b94a5bb49348fc
+      internalID: -1819600452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1787
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaab87024ba5da4aa3898a4bc4bd470
+      internalID: -1307891670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_12
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1787
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d78260d189829a4984da00d072d8c2d
+      internalID: 1100544873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1787
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803fcd4d3891ba4c9943aa936050bf0
+      internalID: 674587483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c3859088a61042b84eea81db4781f
+      internalID: 498222188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1656
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef9c04b427fde44c9bf556e1fd2bae8
+      internalID: -2045513786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1656
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a37211238b1a4691c714e14a8c83e
+      internalID: -1131009547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1656
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4fbed5073f90849a5c790e573236df
+      internalID: -136799280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1656
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e96c0fac8419984596545c2c9dae542
+      internalID: 1479965297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1656
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f212b9e84c5e94bbe4371d70b797c6
+      internalID: 69126838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1525
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee0a55e170a143429bb98ba7a40c524
+      internalID: -492799580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1525
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e3213257f5544ba210b944636bb26
+      internalID: -105098353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1525
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62a06dd09472e4f99483480c38bf55
+      internalID: -1770158035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1525
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c32f5cf6d5ea8b409a100a82d041e1b
+      internalID: 443538809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1525
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6854b0233a604d44964822fb2fa644a
+      internalID: 393003904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_27
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1525
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123cc0de531139f478a78f8860770634
+      internalID: 762636597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_28
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1525
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5dee42aacfafe448528afecd6a610e
+      internalID: 1034135881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1394
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba85a5e43f8a4e4b87e2dff58909a97
+      internalID: 2139390431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1394
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b41159ca48f65442b3696c114deb2ea
+      internalID: 1982267961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1394
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da5f6a8ec2c1464d8f3dae2f971216f
+      internalID: -102117752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1394
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62226f5b7ab7b734287fd385e19da8dc
+      internalID: 428825557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_33
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1394
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbb9055bb597f48bd91f6b7c1d1068
+      internalID: -881545211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_34
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1394
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de02847cb0bdc1146952ace58ca6e052
+      internalID: 2136272980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_35
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1394
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c79ebdaa274554b94ec50adc48a0dd
+      internalID: -1155209528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b2ba206bdd4047a9bc7a026265e52
+      internalID: -1074922630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1263
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf5976901f64344899279d3db50c5f
+      internalID: 592980685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1263
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9dbf2286b78f646838e47efa6641bb
+      internalID: 1192657740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1263
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c9e727d709f343badb451a323282a
+      internalID: 1873339067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_40
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1263
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e8c80c901a1940a3340335458b773
+      internalID: 755439615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_41
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1263
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd04803aa4ad574482f071a497f06d1
+      internalID: 888421922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_42
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1263
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a0dd261e1e62e49b6394249ad253cb
+      internalID: 1115451149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d329a9ed059a64a8cac2601cfd996c
+      internalID: -1719982252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1132
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debeb4373db45214bb4f244ef401ae0e
+      internalID: -488794150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1132
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9634605389df4094a26b69668e187
+      internalID: -854077283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1132
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5092e0c781989c7428f01251297d0cd7
+      internalID: -1479674039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1132
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423516ed586fdc44687044c5bfc39ce8
+      internalID: -186118364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_48
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1132
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1bc4eaac0b1643816370faef3b49d
+      internalID: -1847741394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_49
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1132
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b92282339566346a847a587e9d0d2e
+      internalID: -641385657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1001
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c261c3198319fbe458b8451ca01566f8
+      internalID: 1383407991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1001
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcc878cb1f0fe44cb40de370685a4a5
+      internalID: 1668124200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1001
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb6b851cadda84faf8a8b1ab92a19d
+      internalID: -50584546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_53
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1001
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15229fe6efddc43498565df22766881f
+      internalID: 1716714948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_54
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1001
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254004bfaad42334c923c2fe11741eca
+      internalID: 2091808381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_55
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1001
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201078949c07e184582cf8dfd14f4187
+      internalID: 18235671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_56
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1001
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f4a249f9750504086d4bbe6700e4ca
+      internalID: -814240562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2210dea588f0645bb1a765a3bdde8a
+      internalID: 1218764221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 870
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6342d6c10d71c24682d43a4122ddaa5
+      internalID: 1603489964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 870
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deabf26f8db1134ba518bbd4af7c92d
+      internalID: -628307920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 870
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0dd577a2c6cb54da15b4c857d34e64
+      internalID: 1295993859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_61
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 870
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8d4b3e8f8f7bc42909d441a77fd00c
+      internalID: -315369395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_63
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 870
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8cdb0f97419540bc11dd929358639
+      internalID: 987643875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e722f6eb6e79844bb5f9a5caab8b7ae
+      internalID: 1420658225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_65
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 739
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b82639ec635e48bcc738e43d48502
+      internalID: -1843017360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 739
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb36dc8954665f48ad5cf3f68ae0800
+      internalID: 401702340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_67
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 739
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c195b1519a2807d4d9a1efc97481debb
+      internalID: 652886059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_68
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 739
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d49d3cb9d497264e85b98da5ea4602f
+      internalID: 129739298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_70
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 739
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8582d437ff85954a9474085861d1496
+      internalID: -1353796530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556c568532e85cb4abbb6e1e68fcad81
+      internalID: 911195830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 608
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99cbd4e75aab94397e87c926aa4adc
+      internalID: -1461217709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_73
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 608
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091dc606de4f52144a16f21fa5969cf5
+      internalID: 137709635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_74
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 608
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c970cf502d9d49a7e91894b9f6608
+      internalID: -1512086951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_75
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 608
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179aab7cad5ea464dbede7f90408225a
+      internalID: -1357203314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_77
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 608
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ef0e28b99fce4da572b9d9e473796
+      internalID: 238054907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb8469c8d640a48a1be9a87ef6d064
+      internalID: 756071401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_79
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 477
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55761dfb694bed40b37400e4adee7a7
+      internalID: 1928073452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 477
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48caf0ec60ec24442b5325b4af46ae87
+      internalID: 1826630818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_81
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 477
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c49368dd2b6ee44596dbeeef3af4e9a
+      internalID: 740139091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_82
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 477
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c80ae90e8727142927ee48ab5ae953
+      internalID: -1491929535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_84
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 477
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4465b0971db509e44881d4cb93fe232f
+      internalID: 475700376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967fd514619c9d44d98dafad7caa7410
+      internalID: -1853816971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_86
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 346
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46da62e6242b046aa447fc32bed3ad
+      internalID: -518961184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 346
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d6e64533225c24db75d2079e373fe0
+      internalID: -123577775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_88
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 346
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a5388905ea05249a96ebe437bce7ee
+      internalID: 1659847383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_89
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 346
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a850a8512ee2d46a14331f6d657996
+      internalID: -1126999491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_91
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 346
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999fdc720f0d2448bd77f8eca4ef20c
+      internalID: -2141068135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e3f3a0ae2dac44cbaf0fb04775c661
+      internalID: 1384525516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_93
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 215
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c986b0842488844b36abd241ba3ba8
+      internalID: -286521367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_94
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 215
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c45513e30719b489dfb8418ad3f8b9
+      internalID: 667653034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_95
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 215
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ab89118bef5cf45822e59488af52ba
+      internalID: -1625851635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_96
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 215
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f82c0a31af554c48b833b2264458271
+      internalID: 535123330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_98
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 215
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551cc0c3ff9fb0a4f9453786eb956628
+      internalID: -1946532341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4aee72af40f0848a783b67a4002072
+      internalID: 234897006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_100
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 84
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4816a7379aa2a7c4f91377b25084ba3e
+      internalID: 2128691243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_101
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 84
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb84cb7bc12584342b377a0a801f935c
+      internalID: -1560233870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_102
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 84
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad3ca8bf7136b489e22d2dfad1883a
+      internalID: 822618147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_103
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 84
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a96409861d78048879df8d55554b54
+      internalID: 606949751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2_shidaimk2_105
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 84
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a475b69637dac44daf97dac770996b1
+      internalID: -942482941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1918
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42861fea5475214faccec531dba4166
+      internalID: 859044927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1787
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775794d8c50e3c4d86ae449386be48d
+      internalID: 2030454155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin1
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1656
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0896e845cd144194a12b9dc21bd7b
+      internalID: -108322346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 870
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127d4023862e4541adf595fc817349b
+      internalID: -587978401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin9
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 739
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b12306a82f0943b780ad5f63ea4bb
+      internalID: -1384091436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 608
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b52d1fde4046d4ca6ceb8aa1919782
+      internalID: 622896500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 477
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870fa0eef1f5164489be29217909fc1c
+      internalID: -1924046266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 346
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a816ee5b3b6a7428fec49dd5d8135b
+      internalID: 1324491228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 215
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc699dbc0e4aaaf4ab9d924699a6c131
+      internalID: 707944720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironfangSpin4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 84
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.51, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43695f16368f37c4b95e3a55e239c6dd
+      internalID: 1227894957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      f2_shidaimk2_0: 495010736
+      f2_shidaimk2_1: -1825009443
+      f2_shidaimk2_10: -1819600452
+      f2_shidaimk2_100: 2128691243
+      f2_shidaimk2_101: -1560233870
+      f2_shidaimk2_102: 822618147
+      f2_shidaimk2_103: 606949751
+      f2_shidaimk2_105: -942482941
+      f2_shidaimk2_11: -1307891670
+      f2_shidaimk2_12: 1100544873
+      f2_shidaimk2_13: 674587483
+      f2_shidaimk2_15: 498222188
+      f2_shidaimk2_16: -2045513786
+      f2_shidaimk2_17: -1131009547
+      f2_shidaimk2_18: -136799280
+      f2_shidaimk2_19: 1479965297
+      f2_shidaimk2_2: 1765519320
+      f2_shidaimk2_20: 69126838
+      f2_shidaimk2_22: -492799580
+      f2_shidaimk2_23: -105098353
+      f2_shidaimk2_24: -1770158035
+      f2_shidaimk2_25: 443538809
+      f2_shidaimk2_26: 393003904
+      f2_shidaimk2_27: 762636597
+      f2_shidaimk2_28: 1034135881
+      f2_shidaimk2_29: 2139390431
+      f2_shidaimk2_3: -1699594016
+      f2_shidaimk2_30: 1982267961
+      f2_shidaimk2_31: -102117752
+      f2_shidaimk2_32: 428825557
+      f2_shidaimk2_33: -881545211
+      f2_shidaimk2_34: 2136272980
+      f2_shidaimk2_35: -1155209528
+      f2_shidaimk2_36: -1074922630
+      f2_shidaimk2_37: 592980685
+      f2_shidaimk2_38: 1192657740
+      f2_shidaimk2_39: 1873339067
+      f2_shidaimk2_4: 1564207878
+      f2_shidaimk2_40: 755439615
+      f2_shidaimk2_41: 888421922
+      f2_shidaimk2_42: 1115451149
+      f2_shidaimk2_43: -1719982252
+      f2_shidaimk2_44: -488794150
+      f2_shidaimk2_45: -854077283
+      f2_shidaimk2_46: -1479674039
+      f2_shidaimk2_47: -186118364
+      f2_shidaimk2_48: -1847741394
+      f2_shidaimk2_49: -641385657
+      f2_shidaimk2_5: -1061344171
+      f2_shidaimk2_50: 1383407991
+      f2_shidaimk2_51: 1668124200
+      f2_shidaimk2_52: -50584546
+      f2_shidaimk2_53: 1716714948
+      f2_shidaimk2_54: 2091808381
+      f2_shidaimk2_55: 18235671
+      f2_shidaimk2_56: -814240562
+      f2_shidaimk2_57: 1218764221
+      f2_shidaimk2_58: 1603489964
+      f2_shidaimk2_59: -628307920
+      f2_shidaimk2_60: 1295993859
+      f2_shidaimk2_61: -315369395
+      f2_shidaimk2_63: 987643875
+      f2_shidaimk2_64: 1420658225
+      f2_shidaimk2_65: -1843017360
+      f2_shidaimk2_66: 401702340
+      f2_shidaimk2_67: 652886059
+      f2_shidaimk2_68: 129739298
+      f2_shidaimk2_7: -1468152178
+      f2_shidaimk2_70: -1353796530
+      f2_shidaimk2_71: 911195830
+      f2_shidaimk2_72: -1461217709
+      f2_shidaimk2_73: 137709635
+      f2_shidaimk2_74: -1512086951
+      f2_shidaimk2_75: -1357203314
+      f2_shidaimk2_77: 238054907
+      f2_shidaimk2_78: 756071401
+      f2_shidaimk2_79: 1928073452
+      f2_shidaimk2_8: -828829879
+      f2_shidaimk2_80: 1826630818
+      f2_shidaimk2_81: 740139091
+      f2_shidaimk2_82: -1491929535
+      f2_shidaimk2_84: 475700376
+      f2_shidaimk2_85: -1853816971
+      f2_shidaimk2_86: -518961184
+      f2_shidaimk2_87: -123577775
+      f2_shidaimk2_88: 1659847383
+      f2_shidaimk2_89: -1126999491
+      f2_shidaimk2_9: 1483789853
+      f2_shidaimk2_91: -2141068135
+      f2_shidaimk2_92: 1384525516
+      f2_shidaimk2_93: -286521367
+      f2_shidaimk2_94: 667653034
+      f2_shidaimk2_95: -1625851635
+      f2_shidaimk2_96: 535123330
+      f2_shidaimk2_98: -1946532341
+      f2_shidaimk2_99: 234897006
+      ironfangSpin1: -108322346
+      ironfangSpin10: -587978401
+      ironfangSpin2: 2030454155
+      ironfangSpin3: 859044927
+      ironfangSpin4: 1227894957
+      ironfangSpin5: 707944720
+      ironfangSpin6: 1324491228
+      ironfangSpin7: -1924046266
+      ironfangSpin8: 622896500
+      ironfangSpin9: -1384091436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

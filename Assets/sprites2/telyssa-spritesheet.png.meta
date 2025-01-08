@@ -1,0 +1,2657 @@
+fileFormatVersion: 2
+guid: e9a263b0ebd1c524084e44c3933bbbe6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: telyssa-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ddb8c2fcbff544ca220edc9b6909f5
+      internalID: -890530397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c2b0d45c2f11445810b4b4af93c07b
+      internalID: 76315686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc610d0636ab4468e373d2a96ee24a
+      internalID: -407255073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ecdfb4b9fd66d4bbec60bb797695d3
+      internalID: -1845476244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c6f92aaa41a54eb4cff71b47a8c3f
+      internalID: -2065879538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef9a32f69725c41b13ee3c69ddef5e
+      internalID: 625796017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaCasting3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d647dbb720f8f845ac7fba11e66267a
+      internalID: 867839357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef0797d09dbc194fb9a3cfcaecb3c20
+      internalID: 1842573197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f604660383614283dac8277db0552
+      internalID: -1695547684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fe2851b4129714286cc4dfabdd6722
+      internalID: 833471927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36aff0cb33f6994f8bbbf9ae1815f8d
+      internalID: 1493095914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be518166282a9ff4c88e24e586135c47
+      internalID: 460986537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37d6aee900a0f540acb648c97a1e8bc
+      internalID: 2095115422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb95b367d74b804bab461c97d9c2ec9
+      internalID: 1455559139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 899
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235dda6d0eb14ed4dab2e142fcd737ca
+      internalID: -1171731764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848436b99effe564db8f38cb30aef83e
+      internalID: 195074995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbea175853c7cf419c309198845ed88
+      internalID: 1521516731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80011d2fee1bf47aee0958cb6d165e
+      internalID: -24728901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df6048eaa16e549a74c3a95e415237
+      internalID: 1759243627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e3c28980bed3b4585bed2b1bd63c11
+      internalID: -383879904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ab72afa06c3b6449c39aa559604770
+      internalID: -1043984587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaCasting2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062f9f389ebd190419fc0f48d4e4a134
+      internalID: -1327995303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8cd09038ae686459fe1703476cb9cd
+      internalID: -1604842527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60edf103a60a2be49ab15e471bff6eec
+      internalID: 1408299368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de822e8610fa4164c8931c4dbaebfd0d
+      internalID: -1600009025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0a8d2f10a37749b2220d1b4a855dc
+      internalID: 847790459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e0712c3fac4144a36df083eec3295
+      internalID: -27143664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5d1b7155fb32b489ea45ed2fe56a86
+      internalID: 469726295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac7b91a957112469bea8f4c1d0d7ed
+      internalID: -102318465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 773
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee1ada28c53fa44baebe97622b17f1e
+      internalID: 551116680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5db91e78b615db4a8f00fc0b889157d
+      internalID: 1212435389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd5bce2c92567e4fac0b53dfe0f5bec
+      internalID: 654699449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b72c36c490f2649a788758cf3832fc
+      internalID: -33161350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eaa766a13749442b0d3cef6ad8d8fd
+      internalID: 262445348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53adcb21818002544b115db2b9b17a52
+      internalID: -153563466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede06ba35ff7a447b63deb305e4cfd5
+      internalID: 1206025840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaCasting1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56159ec9f9f6e04a82e5e871d5e3b6d
+      internalID: 1799119472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a1d5b8a172904fbba7e4f3c1128c2
+      internalID: 25637618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890d2eb6ae7044a41babc181ecc6b360
+      internalID: 1592672657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908e02b8bd70e647b5786f1d96f9623
+      internalID: -1766623390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df27bcb71a991f4468abe6626bd0f6c4
+      internalID: -646376912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da81ddd0e04c64a939dc3fa77b33bf
+      internalID: -1651908160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e6ac98ae2815a42a7483b432efe8dc
+      internalID: -1135569378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571da8c2686169541bfc930c3fb8dba4
+      internalID: -1543428223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 647
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff541a28f08922a489b8d3a0bd07ac86
+      internalID: 1149811487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4428b0cbc62978844bfaf86c98bd9629
+      internalID: 847051157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92464ef3e4b6c1149a9a5e914fef0eff
+      internalID: 657134410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bba1775c2b8cf46b4a0494eb1d246d
+      internalID: 1708753728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507804b85a55ad14f9bd52ac0fe63111
+      internalID: -704700801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd239b3d996753488671fd357c5c490
+      internalID: 1103951185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c8dc43fcca2944c8c0253d34be598e
+      internalID: 866101958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e4655567cfc944faaf853c2fb87fae
+      internalID: -920705064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7943f408dc413354db2d90f0af898fb5
+      internalID: 484649357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42988d66d2bbf34199071f347b485aa
+      internalID: -666093467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ec1a814afc0f4eb102aee9740289d
+      internalID: 1005949901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a8b216ea1911247adf4a4bf6b9348d
+      internalID: -1007343100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e845bf07e907da43b9b6e7847469124
+      internalID: 781752374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf5c3cb361d5a6458ae2c0a745406a4
+      internalID: 1992224067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 521
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fdc0de4f1b2734e8b47378621b77bc
+      internalID: 203721779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f9b1a564b96974cbfaa7b32c442f31
+      internalID: 1305261083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8263c5d9058e59f4493bb631498565b9
+      internalID: 622033000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb3ded14a97bdf438ea454ca60ff81c
+      internalID: 651082731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ecb975f1bd62a4c9071d86bad32042
+      internalID: -791116956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fdd6eea5c6ea540b46bc93c040b464
+      internalID: -1008069842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6cd29379dfacb4eb913a6de7d51dbe
+      internalID: -295488265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f597cc16032c4db2ee3aa87fdc6c0
+      internalID: 1627401652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eb79e2ef7a71f439537ef693f31c25
+      internalID: -394430645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding4
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37c18c704f69fd4ca78e47389237b35
+      internalID: -354330634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b16dcba8e5a4340b8d9758c45b673c
+      internalID: -499322066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9191ed4603cf94c48bd39ef586d32114
+      internalID: 996109661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f286e327cbda654b9e9540654c65d31
+      internalID: -1058967330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e75c2bc4733574baf752d67e3c9718
+      internalID: 89740448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 395
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b354c5d039fdb2a4eb5d491638830e76
+      internalID: -475984935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8bf09106a93c4b855fa85ec12630d
+      internalID: 1692995910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f7cc13380a3148889baecb93dc4f1
+      internalID: 1957837653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709afb03d149a3b48886ffe52c091bcf
+      internalID: 2017059084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9062719d80bb2542a814a701ed0a718
+      internalID: -1937494558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8306785219ac68e4e90b15880f15abdf
+      internalID: -1742347297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaCasting6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b5f1c14fa5a045b8a41d4d023ca6f
+      internalID: 1223316648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a95dd997a364c4ab7be1725066554f
+      internalID: -102923276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding11
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0d1b57167361147a9153f31e42396b
+      internalID: -790486160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed07580b89bfc47a8ca504a5551ecb
+      internalID: -1992757275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928813f3caa1391428ae161987a2cea1
+      internalID: -804032701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446dceab5f327f04ab4f97d47954081a
+      internalID: 1972004444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445dae0dda1a0b64b9c6e966f80a3f7a
+      internalID: 1227797769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed5c1ef51f882f4485a9ee4f4c2bb5a
+      internalID: -17939651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 269
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89816dc3e39109447be3ebd4b22556fa
+      internalID: -1391887218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7b6596b7ab09a43b17d8a315bdb9cc
+      internalID: -74275458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e629bc0bfa765b54cafe2a9f79748877
+      internalID: -1227935710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7e6b3da6d78e4e820774a7d5caf34
+      internalID: -1237649289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fddd220bce68c41b4413cff3c63de3
+      internalID: 1564787852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301849f0e34f85248a17489e5a80e1fe
+      internalID: -203658708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaCasting5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131b347b0f98e145873aef244e2ae44
+      internalID: 1942392162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899405d18aa73b418ca9d8b6cfa0d6f
+      internalID: -285956929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding10
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f798811c106f9cf488bbf5f7e7581edc
+      internalID: 870382756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c1c675303ad44f9529717e9d77568
+      internalID: 865155852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f3504312cdf504395ed3567abd1797
+      internalID: -1154125426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc15cb2fb32de94f9ad43428122b008
+      internalID: -1180713786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468a72544e363b40b31158f3a75bbcc
+      internalID: 2114996624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fec76adba6f5f42961bb833a2fdd21
+      internalID: 2059130975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 143
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a3b59a457f68447a08c5d6e2299eea
+      internalID: -1714478508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dde756c19654945b70c54f51427568
+      internalID: 1115624867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc3d40e7a3f064093a50f767e284bf
+      internalID: 1422028490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefcbc688ea409d46a8dca8f7aa1afee
+      internalID: -167925091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455cca1b9a2bb0b4db8433ca618e8f85
+      internalID: -1641984846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c442fa5bd2a7b43b079bbc0fc24557
+      internalID: -185745202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaCasting4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e0aec6fcd3794797bf3b99f3fec2c
+      internalID: -865318560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede6feda48c8f614c9228e4a7abac29d
+      internalID: -1771042007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ddf5a773bbf8e42a7eedf63f3a5937
+      internalID: -2131081967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssaEnding1
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5f9a4d72452b94a84a9c746c43260b
+      internalID: -1536489659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc273626fe1d64dae958bff60f7e0c
+      internalID: 228111703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f276c9341c43664b94090ff1dce6579
+      internalID: -915627532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335578daaf0aff445a4b5828e383a10e
+      internalID: 1897749250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b813301678c19a4f98f79c1ec23ac8e
+      internalID: -153024379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telyssa-spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 17
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9888da7c3e3f84986ae5b76bb3694a
+      internalID: 1163522000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      telyssa-spritesheet_0: -890530397
+      telyssa-spritesheet_1: 76315686
+      telyssa-spritesheet_10: 1493095914
+      telyssa-spritesheet_100: -1714478508
+      telyssa-spritesheet_101: 1115624867
+      telyssa-spritesheet_102: 1422028490
+      telyssa-spritesheet_103: -167925091
+      telyssa-spritesheet_104: -1641984846
+      telyssa-spritesheet_105: -185745202
+      telyssa-spritesheet_107: -1771042007
+      telyssa-spritesheet_11: 460986537
+      telyssa-spritesheet_110: 228111703
+      telyssa-spritesheet_111: -915627532
+      telyssa-spritesheet_112: 1897749250
+      telyssa-spritesheet_113: -153024379
+      telyssa-spritesheet_114: 1163522000
+      telyssa-spritesheet_12: 2095115422
+      telyssa-spritesheet_13: 1455559139
+      telyssa-spritesheet_14: -1171731764
+      telyssa-spritesheet_15: 195074995
+      telyssa-spritesheet_16: 1521516731
+      telyssa-spritesheet_17: -24728901
+      telyssa-spritesheet_19: -383879904
+      telyssa-spritesheet_2: -407255073
+      telyssa-spritesheet_20: -1043984587
+      telyssa-spritesheet_22: -1604842527
+      telyssa-spritesheet_24: -1600009025
+      telyssa-spritesheet_25: 847790459
+      telyssa-spritesheet_26: -27143664
+      telyssa-spritesheet_27: 469726295
+      telyssa-spritesheet_28: -102318465
+      telyssa-spritesheet_29: 551116680
+      telyssa-spritesheet_3: -1845476244
+      telyssa-spritesheet_30: 1212435389
+      telyssa-spritesheet_31: 654699449
+      telyssa-spritesheet_32: -33161350
+      telyssa-spritesheet_34: -153563466
+      telyssa-spritesheet_35: 1206025840
+      telyssa-spritesheet_39: -1766623390
+      telyssa-spritesheet_4: -2065879538
+      telyssa-spritesheet_40: -646376912
+      telyssa-spritesheet_41: -1651908160
+      telyssa-spritesheet_42: -1135569378
+      telyssa-spritesheet_43: -1543428223
+      telyssa-spritesheet_44: 1149811487
+      telyssa-spritesheet_45: 847051157
+      telyssa-spritesheet_46: 657134410
+      telyssa-spritesheet_47: 1708753728
+      telyssa-spritesheet_48: -704700801
+      telyssa-spritesheet_49: 1103951185
+      telyssa-spritesheet_5: 625796017
+      telyssa-spritesheet_50: 866101958
+      telyssa-spritesheet_51: -920705064
+      telyssa-spritesheet_52: 484649357
+      telyssa-spritesheet_54: 1005949901
+      telyssa-spritesheet_55: -1007343100
+      telyssa-spritesheet_56: 781752374
+      telyssa-spritesheet_57: 1992224067
+      telyssa-spritesheet_58: 203721779
+      telyssa-spritesheet_59: 1305261083
+      telyssa-spritesheet_60: 622033000
+      telyssa-spritesheet_61: 651082731
+      telyssa-spritesheet_62: -791116956
+      telyssa-spritesheet_63: -1008069842
+      telyssa-spritesheet_64: -295488265
+      telyssa-spritesheet_65: 1627401652
+      telyssa-spritesheet_66: -394430645
+      telyssa-spritesheet_68: -499322066
+      telyssa-spritesheet_69: 996109661
+      telyssa-spritesheet_7: 1842573197
+      telyssa-spritesheet_70: -1058967330
+      telyssa-spritesheet_71: 89740448
+      telyssa-spritesheet_72: -475984935
+      telyssa-spritesheet_73: 1692995910
+      telyssa-spritesheet_74: 1957837653
+      telyssa-spritesheet_75: 2017059084
+      telyssa-spritesheet_76: -1937494558
+      telyssa-spritesheet_77: -1742347297
+      telyssa-spritesheet_79: -102923276
+      telyssa-spritesheet_81: -1992757275
+      telyssa-spritesheet_82: -804032701
+      telyssa-spritesheet_83: 1972004444
+      telyssa-spritesheet_84: 1227797769
+      telyssa-spritesheet_85: -17939651
+      telyssa-spritesheet_86: -1391887218
+      telyssa-spritesheet_87: -74275458
+      telyssa-spritesheet_88: -1227935710
+      telyssa-spritesheet_89: -1237649289
+      telyssa-spritesheet_9: 833471927
+      telyssa-spritesheet_90: 1564787852
+      telyssa-spritesheet_91: -203658708
+      telyssa-spritesheet_93: -285956929
+      telyssa-spritesheet_95: 865155852
+      telyssa-spritesheet_96: -1154125426
+      telyssa-spritesheet_97: -1180713786
+      telyssa-spritesheet_98: 2114996624
+      telyssa-spritesheet_99: 2059130975
+      telyssaCasting1: 1799119472
+      telyssaCasting2: -1327995303
+      telyssaCasting3: 867839357
+      telyssaCasting4: -865318560
+      telyssaCasting5: 1942392162
+      telyssaCasting6: 1223316648
+      telyssaEnding: 25637618
+      telyssaEnding1: -1536489659
+      telyssaEnding10: 870382756
+      telyssaEnding11: -790486160
+      telyssaEnding2: 262445348
+      telyssaEnding3: 1759243627
+      telyssaEnding4: -354330634
+      telyssaEnding5: -666093467
+      telyssaEnding6: 1592672657
+      telyssaEnding7: 1408299368
+      telyssaEnding8: -1695547684
+      telyssaEnding9: -2131081967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

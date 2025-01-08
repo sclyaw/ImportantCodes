@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b0895de084a6674fbc6947fb42c7a7f, type: 3}
+  m_Name: NodeForOne
+  m_EditorClassIdentifier: 
+  associatedButton: {fileID: 4333167293527626973, guid: 6748a6e84e3ef5448b6f7b1268a61656, type: 3}
+  skillName: One
+  skillDescription: One
+  isSelected: 1
+  isUnlocked: 0
+  notPrefered: 0
+  value: 1
+  left: {fileID: 11400000, guid: 570f52ee6444ff2439186bec9c209b6b, type: 2}
+  right: {fileID: 11400000, guid: e4ff6aef1fc42b242827a85878bf8758, type: 2}
